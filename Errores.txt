@@ -1,1 +1,2 @@
 -Al realizar "git commit" me olvide del parametro -m "..."
+-Al tratar de solucionar el error anterior commitie todos los archivos con -m "solucion"
