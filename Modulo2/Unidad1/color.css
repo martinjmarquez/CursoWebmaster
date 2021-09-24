@@ -1,0 +1,63 @@
+h1{
+    font: italic;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 80px;
+    text-shadow: 6px 4px 2px rgba(0,0,0,0.35);
+    border: 9px double #ff0000;
+    background: #470404;
+    
+
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: capitalize;
+}
+.destacado{
+    color: black;
+    font-size: 20px;
+}
+a:hover{
+    color: rgb(4, 0, 255);
+    
+}
+li{
+    font-family: fantasy;
+}
+p{
+   font-weight: bold;
+}
+.box{ 
+width: 20px;
+height: 20px;
+background: rgb(206,220,231); 
+background: -moz-linear-gradient(-45deg,  rgb(206,220,231) 13%, rgb(89,106,114) 97%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg,  rgb(206,220,231) 13%,rgb(89,106,114) 97%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg,  rgb(206,220,231) 13%,rgb(89,106,114) 97%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cedce7', endColorstr='#596a72',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+border-radius: 9px 9px 9px 9px;
+padding: 5px;
+box-shadow: 9px 4px 40px 1px rgba(0,0,0,0.63) inset;
+cursor: pointer;
+border: 2px dotted #000000;
+}
+.img{
+    width: 150px;
+    height: 250px;
+    border: 9px double #ff0000;;
+    filter: sepia(57%);
+}
+
+
+.formulario{
+    font: italic;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    text-shadow: 6px 4px 2px rgba(0,0,0,0.35);
+    border: 9px double #ea00ff;
+    background: #00eeff;
+    padding: 2px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
