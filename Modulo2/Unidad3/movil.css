@@ -1,0 +1,63 @@
+body {
+	padding:0;
+	margin:0;
+}
+h1{
+    font-size: auto;
+    font-style: oblique;
+    text-align: center;
+    text-shadow: 4px 4px 2px rgba(0, 0, 0, 0.6);
+    color: white;
+    margin: 5px;
+}
+h2{
+    font-size: auto;
+    font-style: oblique;
+    text-align: center;
+    text-shadow: 4px 4px 2px rgba(0, 0, 0, 0.6);
+    color: white;
+}
+p{
+    font-size: auto;
+    font-family: cursive;
+    font-style: italic;
+}
+#c
+#contenedor{
+    background-color: rgb(80, 6, 6);
+    margin: auto;
+    overflow: auto;
+    width: 800px;
+    
+}
+nav{
+    background-color: orangered;
+    float: none;
+	width: 100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0;
+    padding: 0.5em;
+    
+}
+ul {
+	list-style-type:square;
+}
+a{
+    color: white; 
+}
+section {
+	background: #a36507;
+	float: none;
+	margin: auto;
+	width: 100%;
+    
+    padding: 0.5em;
+}
+aside {
+	background: #681b04;
+	float: none;
+    margin: auto;
+	width: 100%;
+    
+    padding: 0.5em;
+}
