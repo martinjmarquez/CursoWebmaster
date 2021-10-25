@@ -1,24 +1,29 @@
 body{
-    background-color: black;
+    background-color:rgb(63, 62, 63);  
+}
+header{
+    /* background-color:rgb(223, 0, 223);   */
+    background-image: url(Asphalt-007.jpg);
+    background-size: cover;
+    height: 200px;
+    overflow: hidden;
 }
 h1{
-    text-align: center;
-    color: white;
-    text-shadow: 4px 4px 2px rgba(255,0,0,0.6);
-    border: 6px double #ff2100;
-    margin: 5px;
-    padding: 5px;
+    text-align: start;
+    color: rgb(255, 255, 255);
+    text-shadow: 4px 4px 2px rgba(0, 0, 0, 0.6);
+    margin-top: 150px;
+    margin-left: 15px;
+    font-family: 'Bebas Neue', cursive;
+    
 }
 .nosotros{
-    background-color: rgba(255,0,0,0.6);
     font-size: large;
     margin-top: 5px;
     width:fit-content;
     height: fit-content;
-    background: #7d0000;
-    background: linear-gradient(141deg,#7d0000 0%, #4a1010 80%);
-    background: -webkit-linear-gradient(141deg,#7d0000 0%, #4a1010 80%);
-    background: -moz-linear-gradient(141deg,#7d0000 0%, #4a1010 80%);
+    padding-left: 2px;
+    border: 4px solid #b7b6b6;
     color: white;
 }
 button{
